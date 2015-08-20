@@ -1,0 +1,15 @@
+#menu-top{background-color:#2f4050;}
+#page-wrapper{min-height:1000px;}
+.navbar{background-color:#F3F3F4;margin-top:0;margin-bottom:0;}
+.navbar-inverse .navbar-brand{color:#ffffff;}
+.navbar-nav > li > .dropdown-menu{margin-top:2px}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus{background-color:#263949;}
+.member-c{text-align:center;}
+.error{color:#C04442;}
+.sflash{font-weight:normal;font-size: 12px}
+.help-block{font-size:11px}
+.input_radio {display: inline-block;line-height: 24px;padding-right: 10px;padding-top:4px;}
+.dbold{font-weight:normal;}
+
+.bule-1{color: #1ab394}
+.red-1{color: #CC0000}
