@@ -1,0 +1,23 @@
+{
+    "name": "macle/yii2-ueditor",
+    "description": "text-image editor in Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","editor","ueditor","upload","flash"],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "macle",
+            "email": "maclechan@qq.com",
+            "qq" : "429140141"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "macle\\ueditor\\": ""
+        }
+    }
+}

@@ -25,13 +25,13 @@ yii2 高级应用
 
 ```
 backend                  总后台应用
-frontend                 暂时未用到
+frontend                 暂时未用到的前端应用
 agent                    商家后台应用
 api                      暂时未用到的应用  
 vendor/                  
     macle/               百度编辑器
     phpoffice/           phpexcel
-    kartik-v             你懂得的
+    kartik-v             
 
 其他目录结构多介绍
 ```
